@@ -1,6 +1,6 @@
 # Main-lass-BE-Pro
 Homework
-ДЗ :
+ДЗ 1 :
 
 
 1.Класс Person
