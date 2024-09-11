@@ -11,6 +11,12 @@ public class Main {
             int element = random.nextInt(10);
             integerList.add(element);
         }
+        System.out.println(integerList);
+        Set<Integer> uniqueSortedSet = new TreeSet<Integer>(integerList);
+        System.out.println("Отсортированный набор уникальных элементов: " + uniqueSortedSet);
 
+        // 2) Набор только уникальных элементов
+        Set<Integer> uniqueSet = new HashSet<>(integerList);
+        System.out.println("Набор только уникальных элементов: " + uniqueSet);
     }
 }
