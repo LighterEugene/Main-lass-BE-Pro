@@ -8,7 +8,7 @@ public class Main {
         // Генерируем список из 500 целочисленных элементов
         List<Integer> integerList = new ArrayList<>();
         for (int i = 0; i < 500; i++) {
-            int element = random.nextInt(10);
+            int element = random.nextInt(5000);
             integerList.add(element);
         }
         System.out.println(integerList);
