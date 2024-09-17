@@ -1,4 +1,4 @@
-# Main-lass-BE-Pro
+# Main-Сlass-BE-Pro
 Homework
 ДЗ 1 :
 
